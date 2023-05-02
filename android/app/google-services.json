@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008246773962",
+    "project_id": "gestock-6d5e4",
+    "storage_bucket": "gestock-6d5e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008246773962:android:3d025dd6734a6ec0cdfc33",
+        "android_client_info": {
+          "package_name": "com.example.stock_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008246773962-cao06veehubon708amt83qp8nkrjd35s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_OTjyVvFQgOgw3l8Gia9f8698RR-75I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008246773962-cao06veehubon708amt83qp8nkrjd35s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
