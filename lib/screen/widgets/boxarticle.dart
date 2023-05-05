@@ -22,17 +22,17 @@ class BoxArticle extends StatelessWidget {
         color: Style.bgBoxColorLight,
       ),
       child: ListTile(
-          leading: Icon(
+          leading: const Icon(
             BootstrapIcons.bag_fill,
             color: Colors.blueGrey,
             size: 40,
           ),
           title: Text(name),
-          subtitle: Text('produit'),
+          subtitle: const Text('produit'),
           trailing: IconButton(
             onPressed: () {},
-            icon: Icon(
-              Icons.delete,
+            icon: const Icon(
+              BootstrapIcons.pencil_square,
               size: 30,
             ),
           )),
